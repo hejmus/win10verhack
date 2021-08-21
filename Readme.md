@@ -4,7 +4,9 @@
 2. Build for x64
 3. Rename DLL to win10verhack64.dll - injector needs it...
 
+or just get prebuilt release
+
 # Usage
 
-Execute: `withdll.exe /d:win10verhack.dll <your_exe.exe>`
+Execute: `withdll.exe /d:win10verhack64.dll <your_exe.exe>`
 
